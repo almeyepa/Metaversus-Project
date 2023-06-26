@@ -86,3 +86,9 @@ export const socials = [
     url: '/facebook.svg',
   },
 ];
+
+export const heroAbout = [
+  {
+    title: 'About Us'
+  }
+]
